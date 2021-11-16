@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\Polidrom\bin\Debug\net5.0\Polidrom.exe
+C:\Users\Admin\Documents\GitHub\Polidrom\bin\Debug\net5.0\Polidrom.deps.json
+C:\Users\Admin\Documents\GitHub\Polidrom\bin\Debug\net5.0\Polidrom.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Polidrom\bin\Debug\net5.0\Polidrom.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Polidrom\bin\Debug\net5.0\Polidrom.dll
+C:\Users\Admin\Documents\GitHub\Polidrom\bin\Debug\net5.0\ref\Polidrom.dll
+C:\Users\Admin\Documents\GitHub\Polidrom\bin\Debug\net5.0\Polidrom.pdb
+C:\Users\Admin\Documents\GitHub\Polidrom\obj\Debug\net5.0\Polidrom.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Polidrom\obj\Debug\net5.0\Polidrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Polidrom\obj\Debug\net5.0\Polidrom.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Polidrom\obj\Debug\net5.0\Polidrom.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Polidrom\obj\Debug\net5.0\Polidrom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Polidrom\obj\Debug\net5.0\Polidrom.dll
+C:\Users\Admin\Documents\GitHub\Polidrom\obj\Debug\net5.0\ref\Polidrom.dll
+C:\Users\Admin\Documents\GitHub\Polidrom\obj\Debug\net5.0\Polidrom.pdb
+C:\Users\Admin\Documents\GitHub\Polidrom\obj\Debug\net5.0\Polidrom.genruntimeconfig.cache
